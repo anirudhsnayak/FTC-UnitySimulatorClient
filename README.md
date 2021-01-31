@@ -1,6 +1,7 @@
 # UnitySimulatorClient
 This is some example Unity code which can be used to communicate with Android Studio. 
 ## Usage
+Put this folder into the Assets folder.
 
 Attach a SimulatorHandler component to the main camera. Then, attach the corresponding sensor and motor components to the simulated GameObjects. Some configuring may need to be done on the sensors.
 
